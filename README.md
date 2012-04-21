@@ -7,6 +7,7 @@ ReallyRandom is an Objective-C class for retrieving truly random numbers from ht
 Usage:
 ======
 
+```
 ReallyRandom* r = [[ReallyRandom alloc] init];
 
 // Synchronous
@@ -30,6 +31,6 @@ if(numbers != nil)
     }
 }
 
-
+```
 
 Enjoy! And feel free to use this code however you like.
